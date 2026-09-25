@@ -1,4 +1,4 @@
-# Art-Ops-In-A-Box Manual
+# Art-Ops-In-A-Box Manual [![DOI](https://zenodo.org/badge/1381412197.svg)](https://doi.org/10.5281/zenodo.22897082)
 
 ## The Art Operation: how to build and run a mature artistic practice
 
